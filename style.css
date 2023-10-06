@@ -226,6 +226,9 @@ justify-items: flex-start;
     50%{
         left: -5440px;
     }
+    60%{
+        left: -6800px;
+    }
 
     
     100%{
